@@ -9,6 +9,7 @@ __pycache__/
 # Ignoring Django settings files
 myproject/settings.py
 myproject/settings/*.py
+# Если settings.py находится в другом месте, измените путь соответственно
 
 # Distribution / packaging
 .Python
